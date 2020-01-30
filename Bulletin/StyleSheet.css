@@ -1,0 +1,16 @@
+﻿body {
+    background-color: #CAC6C6;
+}
+
+.login, .lastlogin, .changepassword, .updateuser, .register .boardpostslist {
+    margin-top: 25px;
+}
+
+.lastlogin {
+    float: left;
+}
+
+
+
+
+
